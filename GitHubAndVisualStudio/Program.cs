@@ -12,7 +12,7 @@ namespace GitHubAndVisualStudio
 
         static void SayHello()
         {
-            Console.WriteLine("HI THERE I\'M LOUD");
+            Console.WriteLine("HI THERE I\'M LOUD!!! I\'VE BEEN CHANGED!!!");
         }
     }
 
