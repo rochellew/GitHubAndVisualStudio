@@ -7,6 +7,13 @@ namespace GitHubAndVisualStudio
         static void Main(string[] args)
         {
             Console.WriteLine("The message has been changed. BE AFRAID.");
+            SayHello();
+        }
+
+        static void SayHello()
+        {
+            Console.WriteLine("HI THERE I\'M LOUD");
         }
     }
+
 }
